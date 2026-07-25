@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "licenses": [
+    {
+      "key": "LKM-001-ABC",
+      "owner": "lukman",
+      "active": true,
+      "expire": "2050-12-31"
+    }
+  ]
+}
